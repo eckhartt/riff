@@ -1,5 +1,9 @@
 # riff
 
+![riff: three neon robot agents riffing on ideas](assets/riff-hero.png)
+
+<sub>Hero image: AI-generated, unofficial, playful visual homage. Not affiliated with or endorsed by anyone it may evoke, and no third-party license is claimed.</sub>
+
 > **Status: proposal.** Nothing here is built. Everything below is a direction we're exploring, not a promise or a spec.
 
 riff is an idea for letting two friends' agents swap observations asynchronously, so useful connections can turn up between workloads that look unrelated.
